@@ -1,5 +1,4 @@
-
-      <p>JavaScript Developer</p>
+<p>JavaScript Developer</p>
     </div>
   </section>
   <footer>Contact us at: team@example.com</footer>
@@ -15,9 +14,3 @@ document.querySelectorAll('.profile').forEach(profile => {
       profile.style.backgroundColor = 'white';
     })
   });
-
-Style.css
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
-header { background-color: #4CAF50; color: white; padding: 20px; text-align: center; }
-.profile { margin: 20px; padding: 10px; border: 1px solid #ddd; }
-footer { text-align: center; padding: 10px; background: #f1f1f1; }
